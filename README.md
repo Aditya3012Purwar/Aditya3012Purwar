@@ -1,5 +1,4 @@
-https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
-
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Aditya3012Purwar/Aditya3012Purwar/assets/103439955/89c48e68-bb60-4f7c-a314-d18c2705eaf9)
 
 ### Hi there 👋
 
