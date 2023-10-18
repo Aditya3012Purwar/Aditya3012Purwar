@@ -1,4 +1,4 @@
-![image](https://github.com/Aditya3012Purwar/Aditya3012Purwar/assets/103439955/5f49a4b1-fa10-4804-9616-2b0ec2e7559f)
+https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
 
 
 ### Hi there 👋
