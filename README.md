@@ -26,10 +26,9 @@ Welcome to my GitHub repository! I'm a passionate Machine Learning Engineer with
 - Hugging Face Transformers
 
 ### Internet of Things (IoT)
-- ESP32
-- NodeMCU
+- ESP32 NodeMCU
 - Arduino
-- ESP32 Cam Module
+- ESP32 CAM Module
 - Jetson Nano
 
 ### Robotic Process Automation
