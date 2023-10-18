@@ -13,7 +13,7 @@ Welcome to my GitHub repository! I'm a passionate Machine Learning Engineer with
 - Neural Network Architectures: Convolutional Neural Network, Artificial Neural Network
 
 ### Computer Vision
-- Libraries or Tools: OpenCV, Yolo
+- Libraries or Tools: OpenCV, Yolo, Mediapipe, CVzone
   
 ### Integration Tools
 - Flask
