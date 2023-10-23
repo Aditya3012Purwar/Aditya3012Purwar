@@ -6,6 +6,12 @@ Welcome to my GitHub repository! I'm a passionate Machine Learning Engineer with
 
 ## Top Skills
 
+### Languages
+- Python
+- C
+- C++
+- Embedded C/C++
+
 ### Machine Learning and Deep Learning
 - Deep Learning Frameworks: TensorFlow, PyTorch, Scikit-learn
 - Visualization Libraries: Seaborn, Matplotlib
