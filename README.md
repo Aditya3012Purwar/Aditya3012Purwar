@@ -30,7 +30,7 @@ Welcome to my GitHub repository! I'm a passionate Machine Learning Engineer with
 - FastAPI
 
 ### Large Language Models (LLMs)
-- OpenAI GPT-3
+- OpenAI API Key
 - Hugging Face Transformers
 
 ### Internet of Things (IoT)
