@@ -13,7 +13,8 @@ Welcome to my GitHub repository! I'm a passionate Machine Learning Engineer with
 - Embedded C/C++
 
 ### Machine Learning and Deep Learning
-- Deep Learning Frameworks: TensorFlow, PyTorch, Scikit-learn
+- Deep Learning Frameworks: TensorFlow, PyTorch
+- Libraries: Scikit Learn, Pandas, Numpy
 - Visualization Libraries: Seaborn, Matplotlib
 - Generative AI Framework: Langchain
 - Neural Network Architectures: Convolutional Neural Network, Artificial Neural Network
